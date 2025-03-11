@@ -1,5 +1,4 @@
-##
-I am a student who dreams of becoming a android developer.
+안녕하세요 안드로이드 앱 개발자를 꿈꾸는 학생입니다.
 <!--
 **robo710/robo710** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
