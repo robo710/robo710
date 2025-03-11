@@ -1,5 +1,5 @@
-## Hi there 👋
-
+##
+I am a student who dreams of becoming a android developer.
 <!--
 **robo710/robo710** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
