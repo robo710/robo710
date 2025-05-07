@@ -5,4 +5,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robo710)](https://github.com/robo710/robo710)
 
-https://sonchanhyeong.tistory.com/
+[블로그](https://sonchanhyeong.tistory.com/)
