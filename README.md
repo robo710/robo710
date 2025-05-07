@@ -5,4 +5,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robo710)](https://github.com/robo710/robo710)
 
-[블로그](https://sonchanhyeong.tistory.com/)
+[포트폴리오](https://seemly-sulfur-4c0.notion.site/Son-Chanhyeong-1ae3d5d320ac818a8113f0ca27e9c6a2?pvs=74) | [블로그](https://sonchanhyeong.tistory.com/)
