@@ -3,5 +3,8 @@
 
 [![Top Langs](https://github-readme-stats.shion.dev/api/top-langs/?username=robo710)](https://github.com/robo710/robo710)
 ---
-contact : sonchanhyeong710@gmail.com   
-[블로그](https://sonchanhyeong.tistory.com/)
+contact : sonchanhyeong710@gmail.com
+<a href = "https://sonchanhyeong.tistory.com/">
+<img alt="Tistory" src ="https://img.shields.io/badge/Tistory-FF5D01?style=flat-square&logo=tistory&logoColor=white">
+</a>
+  </div>
